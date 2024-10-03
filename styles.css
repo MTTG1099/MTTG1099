@@ -234,6 +234,19 @@ main {
     margin: 35px auto;
     background-color: #fff;
     cursor: url("cursor.ico"), default;
+
+                    border-top: 1px #dfdfdf solid;
+                border-left: 1px #dfdfdf solid;
+                border-right: 1px #000000 solid;
+                border-bottom: 1px #000000 solid;
+
+                box-shadow: -1px -1px 0 #808080 inset, 1px 1px 0 #ffffff inset;
+
+                background-color: #c0c0c0;
+
+                display: none;
+
+                position: absolute;
 }
 
 main h2 {
